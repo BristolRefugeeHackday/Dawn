@@ -1,0 +1,63 @@
+a {
+  cursor: pointer;
+  display: block;
+}
+.items-container {
+  max-width: 20rem;
+  border: 2px solid #000;
+  border-radius: .25rem;
+}
+  
+.item {
+  padding: .25rem .5rem;
+  background: linear-gradient(to right, rgba(237,237,237,1) 0%, rgba(246,246,246,1) 47%, rgba(255,255,255,1) 100%);
+}
+a.item:after {
+  content: '→';
+  float: right;
+}
+a.item:hover {
+  background: #eee;
+}
+
+/* Generic slider styles */
+
+.slider-outer-wrapper {
+  position: relative;
+  overflow: hidden;
+  transition: max-height .2s ease-in;
+}
+.slider-transition-group {
+  width: 200%;
+  overflow: hidden;
+}
+.slider-inner-wrapper {
+  width: 50%;
+  float: right;
+  transition: all .2s ease-in-out;
+  
+  &:first-child {
+    position: relative;
+    left: -50%;
+  }
+}
+.slider-right-enter {
+  transform: translate3d(100%, 0, 0);
+}
+.slider-left-enter {
+  transform: translate3d(-100%, 0, 0);
+}
+
+.slider-right-enter-active,
+.slider-left-enter-active,
+.slider-right-leave,
+.slider-left-leave {
+  transform: translate3d(0, 0, 0);
+}
+
+.slider-right-leave-active {
+  transform: translate3d(-100%, 0, 0);
+}
+.slider-left-leave-active {
+  transform: translate3d(100%, 0, 0);
+}

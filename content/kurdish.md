@@ -17,7 +17,7 @@
    - دروستکردنی  یه‌کتربینین / مه‌وعید
      - ناو
      - ژماره‌ی ته‌له‌ فون
-     - PROBLEM:
+     - جۆری کێشه‌
      - PREFERRED ORGANISATION:
 - Need help with health issues:
     - Find/register with GP

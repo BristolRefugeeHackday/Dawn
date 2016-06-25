@@ -25,7 +25,7 @@
     - که‌م ئه‌ندام/ که‌سانی پێداویستی تایبه‌ت
     -  ئافره‌تانی سکپڕ/ دووگیان 
     - سه‌ردان / مه‌وعید  نه‌خۆشخانه‌  یاخود  جی پی
-    - Find the hospital
+    - دۆزینه‌وه‌ی نه‌خۆشخانه‌ و بنکه‌ ته‌ندروستیه‌کان
 - Need help with Housing:
     - I am asylum seeker. Need accommodation
     - I am refugee. Need Accommodation

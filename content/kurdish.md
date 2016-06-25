@@ -27,7 +27,7 @@
     - سه‌ردان / مه‌وعید  نه‌خۆشخانه‌  یاخود  جی پی
     - دۆزینه‌وه‌ی نه‌خۆشخانه‌ و بنکه‌ ته‌ندروستیه‌کان
 - پێویستیم به‌ یارمه‌تیه‌ له‌ بواری خانووبه‌ره‌ و نیشته‌جێ بووندا
-    - I am asylum seeker. Need accommodation
+    - من په‌نابه‌رم ( ئه‌سایله‌م سیکه‌ )  و پێویستیم به‌ خانوی نیشته‌جێ بوونه‌
     - I am refugee. Need Accommodation
     - I need night shelter
     - I have a house. Need help

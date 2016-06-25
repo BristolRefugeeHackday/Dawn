@@ -15,7 +15,7 @@
     - پێویستیم به‌ یارمه‌تیه‌ له‌ پڕکردنه‌وه‌ی فۆڕم یاخود نوسینی نامه‌دا
         - http://www.bristolrefugeerights.org/ 
    - دروستکردنی  یه‌کتربینین / مه‌وعید
-     - NAME:
+     - ناو
      - PHONE NO.:
      - PROBLEM:
      - PREFERRED ORGANISATION:

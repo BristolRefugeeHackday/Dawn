@@ -32,7 +32,7 @@
     -  پێویستیم به‌ شو ێنی خه‌وی کاتییه‌ ( نایت شه‌ڵته‌ره‌ )
  
     -من شوێنی نیشته‌جێ بوونم هه‌یه‌ به‌ڵام پێویستیم به‌ یارمه‌تیه‌
-- Need help with education:
+- من شوێنی نیشته‌جێ بوونم هه‌یه‌ به‌ڵام پێویستیم به‌ یارمه‌تیه‌
     - Want to learn English 
     - Want to enroll in college
     - Want to study in university

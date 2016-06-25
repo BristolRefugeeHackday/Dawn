@@ -16,13 +16,16 @@
 - Need help with Housing:
     - I am asylum seeker. Need accommodation
     - I am refugee. Need Accommodation
+    - I need night shelter
     - I have a house. Need help
 - Need help with education:
     - Want to learn English 
     - Want to enroll in college
     - Want to study in university
-- Looking for acommodation 
-- Want to learn English
-- Need hot meals
-- Need to see a doctor
-- I am a woman. Need help
+    - Want help with other courses
+- Need help with food:
+ - Where to get hot meals
+ - Find food bank
+- Need a creche:
+- Need a space for recreation/games:
+

@@ -1,4 +1,4 @@
-- Need help on Immigration:
+-  . پێویستیم به‌ هاوکارییه‌ له‌ بواری په‌نابه‌رییدا:
     - Need legal advice
      - Go to Bristol Refugee Rights Aid centre on Wedenessday (10am to 12:30pm) and Thursday (10am to 3pm) http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
      - Call Borderlands on 07718 598 188 or visit on Monday (10am to 12noon) and Tuesday (10am to 3pm) http://borderlands.uk.com/contact-us/

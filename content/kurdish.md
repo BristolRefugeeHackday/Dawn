@@ -35,7 +35,7 @@
 - من شوێنی نیشته‌جێ بوونم هه‌یه‌ به‌ڵام پێویستیم به‌ یارمه‌تیه‌
     - ده‌مه‌وێت بخوێنم له‌ بواری زمانی ئینگلیزیدا
     - ده‌مه‌وێت ناونوس بکرێم له‌ کۆلێج
-    - Want to study in university
+    - ده‌مه‌وێت له‌ زانکۆدا بخوێنم
     - Want help with other courses
 - Need help with food:
  - Where to get hot meals

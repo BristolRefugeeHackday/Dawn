@@ -12,7 +12,7 @@
      - سه‌ردانی بریستۆڵ ڕه‌فیوجی ڕایتس به‌شی ئه‌یید بکه‌ له‌ ڕۆژانی چوار شه‌ممه‌ ۱۰ به‌یانی بۆ۱۲،۳۰ دوانیوه‌ڕۆ وه‌ پێنج شه‌ممه‌ ۱۰ به‌یانی بۆ ۳ دوانیوه‌ڕۆ http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
     - پێویستیم به‌ یارمه‌تیه‌ له‌ بواری ئه‌نته‌رڤیووه‌که‌م 
     - سه‌ردانی بریستۆڵ ڕه‌فیوجی ڕایتس به‌شی ئه‌یید بکه‌ له‌ ڕۆژانی چوار شه‌ممه‌ ۱۰ به‌یانی بۆ۱۲،۳۰ دوانیوه‌ڕۆ وه‌ پێنج شه‌ممه‌ ۱۰ به‌یانی بۆ ۳ دوانیوه‌ڕۆ http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
-    - Need help for filling up forms/writing letters:
+    - پێویستیم به‌ یارمه‌تیه‌ له‌ پڕکردنه‌وه‌ی فۆڕم یاخود نوسینی نامه‌دا
         - http://www.bristolrefugeerights.org/ 
    - Make an appointment:
      - NAME:

@@ -26,7 +26,7 @@
     -  ئافره‌تانی سکپڕ/ دووگیان 
     - سه‌ردان / مه‌وعید  نه‌خۆشخانه‌  یاخود  جی پی
     - دۆزینه‌وه‌ی نه‌خۆشخانه‌ و بنکه‌ ته‌ندروستیه‌کان
-- Need help with Housing:
+- پێویستیم به‌ یارمه‌تیه‌ له‌ بواری خانووبه‌ره‌ و نیشته‌جێ بووندا
     - I am asylum seeker. Need accommodation
     - I am refugee. Need Accommodation
     - I need night shelter

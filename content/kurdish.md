@@ -18,7 +18,7 @@
      - ناو
      - ژماره‌ی ته‌له‌ فون
      - جۆری کێشه‌
-     - PREFERRED ORGANISATION:
+     - ئه‌و ڕێخراوه‌ی که‌ پێویستت پێیه‌تی
 - Need help with health issues:
     - Find/register with GP
     - Mental health issues

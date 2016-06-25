@@ -1,26 +1,26 @@
 - Need help on Immigration:
- - Need legal advice
- - Need solicitor
- - Can't read a letter
- - Need help with interviwes 
- - Need help for filling up forms/writing letters
-  - [Go to Bristol Refugee Rights](http://www.bristolrefugeerights.org/)
-  - another
+    - Need legal advice
+    - Need solicitor
+    - Can't read a letter
+    - Need help with interviwes 
+    - Need help for filling up forms/writing letters:
+        - [Go to Bristol Refugee Rights](http://www.bristolrefugeerights.org/)
+        - another
 - Need help with health issues:
- - Find/register with GP
- - Mental health issues
- - Disability
- - Pregnancy
- - Appointemnt with hospital/GP
- - Find the hospital
+    - Find/register with GP
+    - Mental health issues
+    - Disability
+    - Pregnancy
+    - Appointemnt with hospital/GP
+    - Find the hospital
 - Need help with Housing:
- - I am asylum seeker. Need accommodation
- - I am refugee. Need Accommodation
- - I have a house. Need help
+    - I am asylum seeker. Need accommodation
+    - I am refugee. Need Accommodation
+    - I have a house. Need help
 - Need help with education:
- - Want to learn English 
- - Want to enroll in college
- - Want to study in university
+    - Want to learn English 
+    - Want to enroll in college
+    - Want to study in university
 - Looking for acommodation 
 - Want to learn English
 - Need hot meals

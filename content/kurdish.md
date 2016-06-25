@@ -33,7 +33,7 @@
  
     -من شوێنی نیشته‌جێ بوونم هه‌یه‌ به‌ڵام پێویستیم به‌ یارمه‌تیه‌
 - من شوێنی نیشته‌جێ بوونم هه‌یه‌ به‌ڵام پێویستیم به‌ یارمه‌تیه‌
-    - Want to learn English 
+    - ئه‌مه‌وێت فێری زمانی ئینگلیزی بم 
     - Want to enroll in college
     - Want to study in university
     - Want help with other courses

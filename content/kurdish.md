@@ -24,7 +24,7 @@
     - بواری نه‌خۆشی ده‌روونی
     - که‌م ئه‌ندام/ که‌سانی پێداویستی تایبه‌ت
     -  ئافره‌تانی سکپڕ/ دووگیان 
-    - Appointemnt with hospital/GP
+    - سه‌ردان / مه‌وعید  نه‌خۆشخانه‌  یاخود  جی پی
     - Find the hospital
 - Need help with Housing:
     - I am asylum seeker. Need accommodation

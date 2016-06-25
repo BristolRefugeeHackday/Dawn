@@ -107,7 +107,7 @@ var Browser = React.createClass({
           } else {
             return React.createElement(
               'div',
-              { className: 'item', key: item },
+              { className: 'item info', key: item },
               item
             );
           }

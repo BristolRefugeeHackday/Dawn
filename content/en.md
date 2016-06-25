@@ -12,7 +12,7 @@
     - Need help with interviwes 
     - Go to Bristol Refugee Rights Aid centre on Wedenessday (10am to 12:30pm) and Thursday (10am to 3pm) http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
     - Need help for filling up forms/writing letters:
-        - http://www.bristolrefugeerights.org/
+        - http://www.bristolrefugeerights.org/ 
    - Make an appointment:
      - NAME:
      - PHONE NO.:

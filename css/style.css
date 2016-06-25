@@ -11,6 +11,7 @@ a {
 }
 
 .item {
+  color: blue;
   padding: .25rem .5rem;
   background: -webkit-linear-gradient(left, #ededed 0%, #f6f6f6 47%, white 100%);
   background: linear-gradient(to right, #ededed 0%, #f6f6f6 47%, white 100%);
@@ -78,5 +79,5 @@ a.item:hover {
 }
 
 .info {
-  color:'blue';
+  color:'black';
 }

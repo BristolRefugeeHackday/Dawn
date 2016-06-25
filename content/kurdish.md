@@ -23,7 +23,7 @@
     - دۆزینه‌وه‌ی/ ناونوسکردن پزیشکی خێزانی ( جی پی )
     - بواری نه‌خۆشی ده‌روونی
     - که‌م ئه‌ندام/ که‌سانی پێداویستی تایبه‌ت
-    - Pregnancy
+    -  ئافره‌تانی سکپڕ/ دووگیان 
     - Appointemnt with hospital/GP
     - Find the hospital
 - Need help with Housing:

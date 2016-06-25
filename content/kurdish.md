@@ -19,7 +19,7 @@
      - ژماره‌ی ته‌له‌ فون
      - جۆری کێشه‌
      - ئه‌و ڕێخراوه‌ی که‌ پێویستت پێیه‌تی
-- Need help with health issues:
+-  پێویستیم به‌ یارمه‌تیه‌ له‌ بواری ته‌ندروستیدا
     - Find/register with GP
     - Mental health issues
     - Disability

@@ -19,7 +19,8 @@
  - I have a house. Need help
 - Need help with education:
  - Want to learn English 
- - Want to enroll in 
+ - Want to enroll in college
+ - Want to study in university
 - Looking for acommodation 
 - Want to learn English
 - Need hot meals

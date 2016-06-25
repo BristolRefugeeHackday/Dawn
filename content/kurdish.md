@@ -16,7 +16,7 @@
         - http://www.bristolrefugeerights.org/ 
    - دروستکردنی  یه‌کتربینین / مه‌وعید
      - ناو
-     - PHONE NO.:
+     - ژماره‌ی ته‌له‌ فون
      - PROBLEM:
      - PREFERRED ORGANISATION:
 - Need help with health issues:

@@ -4,7 +4,7 @@
     - Can't read a letter
     - Need help with interviwes 
     - Need help for filling up forms/writing letters:
-        - [Go to Bristol Refugee Rights](http://www.bristolrefugeerights.org/)
+        - http://www.bristolrefugeerights.org/
         - another
 - Need help with health issues:
     - Find/register with GP

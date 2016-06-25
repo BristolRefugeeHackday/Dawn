@@ -1,11 +1,23 @@
 - Need help on Immigration:
     - Need legal advice
-    - Need solicitor
-    - Can't read a letter
+     - Go to Bristol Refugee Rights Aid centre on Wedenessday (10am to 12:30pm) and Thursday (10am to 3pm) http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
+     - Call Borderlands on 07718 598 188 or visit on Monday (10am to 12noon) and Tuesday (10am to 3pm) http://borderlands.uk.com/contact-us/
+     - Make an appointment
+    - Need solicitor:
+     - Go to Bristol Refugee Rights Aid centre on Wedenessday (10am to 12:30pm) and Thursday (10am to 3pm) http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
+     - Call Borderlands on 07718 598 188 or visit on Monday (10am to 12noon) and Tuesday (10am to 3pm) http://borderlands.uk.com/contact-us/
+     - Call Avon and Bristol Law Centre on  0117 924 8662 or visit them http://www.ablc.org.uk/immigration.html
+    - Can't read a letter:
+     - Go to Bristol Refugee Rights Aid centre on Wedenessday (10am to 12:30pm) and Thursday (10am to 3pm) http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
     - Need help with interviwes 
+    - Go to Bristol Refugee Rights Aid centre on Wedenessday (10am to 12:30pm) and Thursday (10am to 3pm) http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
     - Need help for filling up forms/writing letters:
         - http://www.bristolrefugeerights.org/
-        - another
+   - Make an appointment:
+     - NAME:
+     - PHONE NO.:
+     - PROBLEM:
+     - PREFERRED ORGANISATION:
 - Need help with health issues:
     - Find/register with GP
     - Mental health issues

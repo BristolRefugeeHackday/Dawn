@@ -116,7 +116,6 @@ var Browser = React.createClass({
     );
   }
 });
-
-var data = [{ name: 'Animal', children: [{ name: 'Land', children: [{ name: 'Cheetah' }, { name: 'Ant' }] }, { name: 'Air', children: [{ name: 'Eagle' }] }, { name: 'Water', children: [{ name: 'Nessy' }] }] }, { name: 'Vegetable', children: [{ name: 'Broccoli' }, { name: 'IE6' }] }, { name: 'Mineral', children: [{ name: 'Granite' }, { name: 'Uraninite' }] }];
+var data = [{"name":"en","children":{"0":{"name":"Need help on Immigration","children":{"0":"Need legal advice","1":"Need solicitor","2":"Can't read a letter","3":"Need help with interviwes","4":{"name":"Need help for filling up forms/writing letters","children":{"0":"http://www.bristolrefugeerights.org/","1":"another"}}}},"1":{"name":"Need help with health issues","children":{"0":"Find/register with GP","1":"Mental health issues","2":"Disability","3":"Pregnancy","4":"Appointemnt with hospital/GP","5":"Find the hospital"}},"2":{"name":"Need help with Housing","children":{"0":"I am asylum seeker. Need accommodation","1":"I am refugee. Need Accommodation","2":"I have a house. Need help"}},"3":{"name":"Need help with education","children":{"0":"Want to learn English","1":"Want to enroll in college","2":"Want to study in university"}},"4":"Looking for acommodation","5":"Want to learn English","6":"Need hot meals","7":"Need to see a doctor","8":"I am a woman. Need help"}}]
 
 React.render(React.createElement(Browser, { items: data }), document.body);

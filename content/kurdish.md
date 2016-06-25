@@ -11,7 +11,7 @@
     - ناتوانم نامه‌کانم بخوێنمه‌وه‌ یاخود لێی تێبگه‌م:
      - سه‌ردانی بریستۆڵ ڕه‌فیوجی ڕایتس به‌شی ئه‌یید بکه‌ له‌ ڕۆژانی چوار شه‌ممه‌ ۱۰ به‌یانی بۆ۱۲،۳۰ دوانیوه‌ڕۆ وه‌ پێنج شه‌ممه‌ ۱۰ به‌یانی بۆ ۳ دوانیوه‌ڕۆ http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
     - پێویستیم به‌ یارمه‌تیه‌ له‌ بواری ئه‌نته‌رڤیووه‌که‌م 
-    - Go to Bristol Refugee Rights Aid centre on Wedenessday (10am to 12:30pm) and Thursday (10am to 3pm) http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
+    - سه‌ردانی بریستۆڵ ڕه‌فیوجی ڕایتس به‌شی ئه‌یید بکه‌ له‌ ڕۆژانی چوار شه‌ممه‌ ۱۰ به‌یانی بۆ۱۲،۳۰ دوانیوه‌ڕۆ وه‌ پێنج شه‌ممه‌ ۱۰ به‌یانی بۆ ۳ دوانیوه‌ڕۆ http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
     - Need help for filling up forms/writing letters:
         - http://www.bristolrefugeerights.org/ 
    - Make an appointment:

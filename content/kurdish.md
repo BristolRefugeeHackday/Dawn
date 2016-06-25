@@ -4,7 +4,7 @@
      - http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
      - په‌یوه‌ندی بکه‌ به‌ بۆرده‌لاند ۰۷۷۱۸ ۵۹۸ ۱۸۸ یاخود سه‌ردانیان بکه‌ له‌ ڕۆژانی دوو شه‌ممه‌ ۱۰به‌یانی بۆ۱۲نیوه‌ڕۆ وه‌ سێ شه‌ممه‌ ۱۰به‌یانی بۆ  دوانیوه‌ڕۆ http://borderlands.uk.com/contact-us/
      - درووستکردنی یه‌کتر بینین / مه‌وعید 
-    - Need solicitor:
+    - پێویستیم به‌ بینینی پارێزه‌ره‌ / محامی
      - Go to Bristol Refugee Rights Aid centre on Wedenessday (10am to 12:30pm) and Thursday (10am to 3pm) http://www.bristolrefugeerights.org/what-we-do/welcome-centre/
      - Call Borderlands on 07718 598 188 or visit on Monday (10am to 12noon) and Tuesday (10am to 3pm) http://borderlands.uk.com/contact-us/
      - Call Avon and Bristol Law Centre on  0117 924 8662 or visit them http://www.ablc.org.uk/immigration.html
